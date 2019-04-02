@@ -7,7 +7,5 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
-  
   return `${string}, ${name}`
-  console.log('')
 }
