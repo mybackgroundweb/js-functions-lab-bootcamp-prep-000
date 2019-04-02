@@ -6,6 +6,6 @@ function happyHolidays() {
   return string
 }
 
-function happyHolidayTo(name) {
+function appyHolidaysTo(name) {
   return `${string}, ${name}`
 }
